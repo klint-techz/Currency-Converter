@@ -19,6 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
+     margin-left: 100px;
 }
 
 .card {
@@ -142,6 +143,7 @@ a{
     }
 
 }
+
 
 
 
