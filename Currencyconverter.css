@@ -113,6 +113,13 @@ input {
     cursor: pointer;
     transition: 0.3s;
 }
+p{
+    margin-top: 20px;
+    text-align: center;
+}
+a{
+    color: red;
+}
 
 #btn:hover {
     opacity: 0.9;
@@ -128,4 +135,5 @@ input {
     .swap {
         margin: 10px 0;
     }
+
 }
