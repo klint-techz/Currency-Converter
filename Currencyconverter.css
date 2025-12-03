@@ -134,11 +134,14 @@ a{
     }
     .card{
          margin: auto;
+        margin-left: 100px;
+         margin-right: 100px;
 
     .swap {
         margin: 10px 0;
     }
 
 }
+
 
 
