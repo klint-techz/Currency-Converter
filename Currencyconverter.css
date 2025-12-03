@@ -19,6 +19,8 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .card {
@@ -132,15 +134,13 @@ a{
         flex-direction: column;
         gap: 5px;
     }
-    .card{
-        margin-left: 20px;
-         margin-right: 20px;
 
     .swap {
         margin: 10px 0;
     }
 
 }
+
 
 
 
