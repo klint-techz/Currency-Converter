@@ -27,7 +27,7 @@ body {
     width: 100%;
     max-width: 380px;
     border-radius: 18px;
-    margin: auto;
+   
 
     /* Soft shadow */
     box-shadow: 0 10px 25px rgba(0,0,0,0.15);
@@ -132,10 +132,13 @@ a{
         flex-direction: column;
         gap: 5px;
     }
+    .card{
+         margin: auto;
 
     .swap {
         margin: 10px 0;
     }
 
 }
+
 
